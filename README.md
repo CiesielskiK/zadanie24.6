@@ -1,1 +1,2 @@
-# zadanie24.6
+zadanie 24.6
+
